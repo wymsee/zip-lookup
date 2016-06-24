@@ -1,0 +1,11 @@
+{
+  "name": "zip-lookup",
+  "homepage": "https://github.com/wymsee/zip-lookup",
+  "authors": [
+    "userkrys <krzysztof@wymsee.com>"
+  ],
+  "description": "Find city and state for a given zipcode",
+  "main": "ziplookup.module.js",
+  "license": "MIT",
+  "private": true
+}
